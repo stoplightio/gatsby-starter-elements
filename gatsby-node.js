@@ -32,4 +32,18 @@ exports.onCreateWebpackConfig = ({ stage, loaders, actions, plugins }) => {
       });
     }
   };
+
+  exports.onCreatePage = async ({ page, actions }) => {
+    const { createPage } = actions;
+  
+    // page.matchPath is a special key that's used for matching pages
+    // only on the client.
+    const match = page.path === '/';
+    if (match) {
+      page.matchPath = `/*`;
+  
+      // Update the page.
+      createPage(page);
+    }
+  };
   

@@ -2190,9 +2190,9 @@
     unist-util-visit "^3.1.0"
 
 "@stoplight/mosaic-code-editor@^1":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@stoplight/mosaic-code-editor/-/mosaic-code-editor-1.1.0.tgz#e09968f211154d8186489aefcf5eb23767d0294f"
-  integrity sha512-mwu606hrS8RrlbgDhuBm1HpGCpkLEA6SZsBt9NcDZbahUhheYqGi0frFnkuCYUavgjsiU5oRIvClJqZyRtUMpQ==
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@stoplight/mosaic-code-editor/-/mosaic-code-editor-1.1.1.tgz#34af3322c442ad64012db0eac5cd23ca055e8364"
+  integrity sha512-CqnpYqDPI2Xvcc6LcKFqqm/t1ZD3iGR1PFsV3lGgiC4dzGa7ICrZggCB1z0FHtooOhMV9xrQonvQvH02YqR8uA==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.35"
     "@fortawesome/free-solid-svg-icons" "^5.15.3"
@@ -2223,8 +2223,8 @@
     "@react-stately/select" "3.1.2"
     "@react-stately/tabs" "3.0.0"
     "@react-stately/tooltip" "3.0.4"
-    "@stoplight/mosaic" "1.1.0"
-    "@stoplight/mosaic-code-viewer" "1.1.0"
+    "@stoplight/mosaic" "1.1.1"
+    "@stoplight/mosaic-code-viewer" "1.1.1"
     clsx "^1.1.1"
     copy-to-clipboard "^3.3.1"
     lodash.get "^4.4.2"
@@ -2236,10 +2236,10 @@
     tslib "^2.1.0"
     zustand "^3.5.2"
 
-"@stoplight/mosaic-code-viewer@1.1.0", "@stoplight/mosaic-code-viewer@^1":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@stoplight/mosaic-code-viewer/-/mosaic-code-viewer-1.1.0.tgz#af0f41e53079009f6429de46c7c110c7dd8aae8b"
-  integrity sha512-DKl/+jmm2VAYxCeQhg8LOz68A9ajonyndlkAhfr0nPze5Gle8DTC9xcmlcfvwMk9y9yDkaadA/YgQx0d+u//Sw==
+"@stoplight/mosaic-code-viewer@1.1.1", "@stoplight/mosaic-code-viewer@^1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@stoplight/mosaic-code-viewer/-/mosaic-code-viewer-1.1.1.tgz#8989ead611f6d8502d662ddb2ce1cd055fd32409"
+  integrity sha512-8YBMuL7Gu4bUQs6LE2rmTqPzUUMeRNFnQEDqw/UGbGFPqw5UYSgIHFkUSQ+3IAX/5amySsSR/URjiufjaFwRGQ==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.35"
     "@fortawesome/free-solid-svg-icons" "^5.15.3"
@@ -2270,7 +2270,7 @@
     "@react-stately/select" "3.1.2"
     "@react-stately/tabs" "3.0.0"
     "@react-stately/tooltip" "3.0.4"
-    "@stoplight/mosaic" "1.1.0"
+    "@stoplight/mosaic" "1.1.1"
     clsx "^1.1.1"
     copy-to-clipboard "^3.3.1"
     lodash.get "^4.4.2"
@@ -2281,10 +2281,10 @@
     tslib "^2.1.0"
     zustand "^3.5.2"
 
-"@stoplight/mosaic@1.1.0", "@stoplight/mosaic@^1":
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/@stoplight/mosaic/-/mosaic-1.1.0.tgz#fdd46fb57916d542cdbfd4a6bffa640ea2a38402"
-  integrity sha512-S5ZyoE5Djhkm5x9gQMf0d2SN8yTWmTv8fsG8+4dY0+WMWTgQL5shp3+uvTAWO5POsQbPUHG3KmCDCqsZADJc9g==
+"@stoplight/mosaic@1.1.1", "@stoplight/mosaic@^1":
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@stoplight/mosaic/-/mosaic-1.1.1.tgz#249f03f77849c9a78d9c46cf02ac68eb9bd7ae64"
+  integrity sha512-a3ivrGxzkX3QnVZhB9+qXSreVtva2QRxYHIdi5zPZNSMrCkAoxKxPHki1eS5RF9aYkTiGAnbsFEviML+sUvbEg==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^1.2.35"
     "@fortawesome/free-solid-svg-icons" "^5.15.3"
@@ -2626,9 +2626,9 @@
     "@types/react" "*"
 
 "@types/react@*", "@types/react@^17.0.3":
-  version "17.0.11"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.11.tgz#67fcd0ddbf5a0b083a0f94e926c7d63f3b836451"
-  integrity sha512-yFRQbD+whVonItSk7ZzP/L+gPTJVBkL/7shLEF+i9GC/1cV3JmUxEQz6+9ylhUpWSDuqo1N9qEvqS6vTj4USUA==
+  version "17.0.12"
+  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.12.tgz#e9a1add2abc4eb90ec7b1676a6e8567b147ab954"
+  integrity sha512-F0Kcg/W9Zakf9GnYQzM67QjeTlbBcE8UPOck3pjiW0K4vqXvmfm5UErg+83nkK4VIi8IixaA2gqYgI42UTq0TQ==
   dependencies:
     "@types/prop-types" "*"
     "@types/scheduler" "*"
@@ -4114,9 +4114,9 @@ color-name@~1.1.4:
   integrity sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==
 
 colord@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/colord/-/colord-2.0.1.tgz#1e7fb1f9fa1cf74f42c58cb9c20320bab8435aa0"
-  integrity sha512-vm5YpaWamD0Ov6TSG0GGmUIwstrWcfKQV/h2CmbR7PbNu41+qdB5PW9lpzhjedrpm08uuYvcXi0Oel1RLZIJuA==
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/colord/-/colord-2.1.0.tgz#28cd9d6ac874dff97ef5ec1432c5c0b4e58e49c7"
+  integrity sha512-H5sDP9XDk2uP+x/xSGkgB9SEFc1bojdI5DMKU0jmSXQtml2GIe48dj1DcSS0e53QQAHn+JKqUXbGeGX24xWD7w==
 
 colorette@^1.2.1, colorette@^1.2.2:
   version "1.2.2"
@@ -5054,9 +5054,9 @@ ee-first@1.1.1:
   integrity sha1-WQxhFWsK4vTwJVcyoViyZrxWsh0=
 
 electron-to-chromium@^1.3.564, electron-to-chromium@^1.3.723:
-  version "1.3.762"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.762.tgz#3fa4e3bcbda539b50e3aa23041627063a5cffe61"
-  integrity sha512-LehWjRpfPcK8F1Lf/NZoAwWLWnjJVo0SZeQ9j/tvnBWYcT99qDqgo4raAfS2oTKZjPrR/jxruh85DGgDUmywEA==
+  version "1.3.763"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.763.tgz#93f6f02506d099941f557b9db9ba50b30215bf15"
+  integrity sha512-UyvEPae0wvzsyNJhVfGeFSOlUkHEze8xSIiExO5tZQ8QTr7obFiJWGk3U4e7afFOJMQJDszqU/3Pk5jtKiaSEg==
 
 "emoji-regex@>=6.0.0 <=6.1.1":
   version "6.1.1"
@@ -10441,7 +10441,7 @@ postcss@^7.0.5:
     source-map "^0.6.1"
     supports-color "^6.1.0"
 
-postcss@^8.2.15, postcss@^8.2.9:
+postcss@^8.2.15, postcss@^8.2.9, postcss@^8.3.5:
   version "8.3.5"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.3.5.tgz#982216b113412bc20a86289e91eb994952a5b709"
   integrity sha512-NxTuJocUhYGsMiMFHDUkmjSKT3EdH4/WbGF6GCi1NDGk+vbcUTun4fpbOqaPtD8IIsztA2ilZm2DhYCuyN58gA==
@@ -13560,9 +13560,9 @@ xss@^1.0.6:
     cssfilter "0.0.10"
 
 xstate@^4.11.0, xstate@^4.9.1:
-  version "4.20.1"
-  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.20.1.tgz#d841b241f53d11ceaaf93a05f1ee156873f4858c"
-  integrity sha512-oLqFEYKUG3Y4t3Pg5tb7ZXz2kZcrRA1inrEVfzDVf1JoBb+KGpKlNaLzxF5bE7swo0xcc8H+B/gdPb1feyO1gg==
+  version "4.20.2"
+  resolved "https://registry.yarnpkg.com/xstate/-/xstate-4.20.2.tgz#a22e6e63fc327b8d707494be3bf4897fb7890b37"
+  integrity sha512-HvU+NCYffTOC1oiopNKve3IdLNRpuvNa3tv+fhM8mo9+TGCF35wIMQJON7bWG/2041ySBKw78PW2goV+Ug073w==
 
 xtend@^4.0.0, xtend@^4.0.1, xtend@~4.0.1:
   version "4.0.2"
